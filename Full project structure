@@ -1,0 +1,13 @@
+Full project structure 
+Backend/env.py
+Backend/env.py
+Backend/trainer.py
+Backend/main.py
+Backend/test_env.py
+Backend/requirements.txt
+frontend/page.js
+frontend/package.json
+frontend/Readme.md
+docker-compose.yml
+Readme.md
+.gitignore
